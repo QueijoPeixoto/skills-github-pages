@@ -1,7 +1,7 @@
 
 title: no.
 
-# A <sub>Regular</sub>  day for  ~the Immortals~ Humans 
+# A <sub>Regular</sub>  day for  ~~the Immortals~~ Humans 
 
 ###### A rather interesting table:
 
